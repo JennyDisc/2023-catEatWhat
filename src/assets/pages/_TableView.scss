@@ -1,0 +1,14 @@
+#cannedtable {
+    width: 100% !important;
+}
+
+/* 隱藏DataTable開啟X、Y軸後出現在原表格上方的標題列。將套件dt-scroll-body表中標題列做position-sticky來達凍結標題列 */
+.dt-scroll-head {
+    display: none;
+}
+
+.tableImgBlock {
+    img {
+        width: 150px;
+    }
+}

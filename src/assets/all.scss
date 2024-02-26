@@ -1,0 +1,13 @@
+@import "bootstrap/scss/bootstrap";  
+
+// base
+@import './base/base';
+
+// breakpoint
+@import "./utils/Mixins";
+
+// pages
+@import "./pages/_TableView";
+@import "./pages/_HeaderView";
+@import "./pages/_DietView";
+@import "./pages/_FooterView";
